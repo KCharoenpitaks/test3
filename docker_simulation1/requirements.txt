@@ -1,0 +1,14 @@
+flask
+pandas
+seaborn
+matplotlib
+requests
+numpy
+scipy
+scikit-learn
+psycopg2
+pymssql
+xlrd==1.2.0
+lxml
+
+
